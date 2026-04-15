@@ -2,12 +2,12 @@
   "mongoURI": "mongodb+srv://ronitgyansharma12_db_user:ILLbDwXD6gnFl02W@cluster0.hqbgxa5.mongodb.net/?appName=Cluster0",
   "ownerID": "100018077753687",
   "adminIDs": [
-    "61579234259724",
-    "61583404487361"
+    "100076374008418",
+    "100083925703457"
   ],
   "supportIDs": [
     "100018077753687",
-    "SUPPORT_ID_2"
+    "100083925703457"
   ],
   "adminInboxThreadID": "100018077753687",
   "prefix": "#",
