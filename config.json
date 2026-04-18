@@ -3,10 +3,12 @@
   "ownerID": "100018077753687",
   "adminIDs": [
     "100076374008418",
+    "61574318355586",
     "100083925703457"
   ],
   "supportIDs": [
     "100018077753687",
+    "61574318355586",
     "100083925703457"
   ],
   "adminInboxThreadID": "100018077753687",
@@ -24,7 +26,7 @@
     "autoReconnect": true,
     "userAgent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 CrKey/1.54.250320"
   },
-  "botNickname": "juhi bwb'iiəw",
+  "botNickname": "BOSS",
   "commandEnabled": true,
   "eventEnabled": true,
   "announceImageChange": true,
